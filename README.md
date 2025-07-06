@@ -19,7 +19,6 @@ This repository contains a full-stack Task Management System built as part of th
 - [Authentication and Roles](#authentication-and-roles)
 - [Responsive Design](#responsive-design)
 - [Error Handling](#error-handling)
-- [Improvements & Future Work (Optional)](#improvements--future-work-optional)
 - [Contact](#contact)
 
 ## Features
@@ -204,18 +203,6 @@ The application provides user-friendly error messages and feedback for various s
 -   Client-side form validation errors.
 -   Unauthorized access attempts.
 -   Loading states for data retrieval.
-
-## Improvements & Future Work (Optional)
-
-(This is a great section to show initiative. Mention things you'd add if you had more time.)
-
--   **Persistence:** Replace the in-memory database with a real database (e.g., SQL Server, PostgreSQL) for data persistence.
--   **More Robust Authentication:** Implement refresh tokens, password reset functionality.
--   **Advanced Filtering/Sorting:** Add more comprehensive filtering and sorting options for task and user lists.
--   **Notifications:** Implement real-time notifications for task assignments or status changes.
--   **Logging:** Integrate a dedicated logging framework (e.g., Serilog) for better backend diagnostics.
--   **Frontend Tests:** Add Unit and E2E tests for the Angular application using Karma/Jasmine and Protractor/Cypress/Playwright.
--   **Dockerization:** Containerize the application using Docker for easier deployment.
 
 ## Contact
 
